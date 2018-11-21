@@ -184,7 +184,11 @@ describe "#display_board in 'lib/display_board.rb" do
       # example's situation.
 
       # *** Comment the line below by adding a # at the line start ***
+<<<<<<< HEAD
       #expect(true).to be(true)
+=======
+      # expect(true).to be(true)
+>>>>>>> b014bce5425781f800f82c843eae3d88d2d2047b
     end
   end
 end
